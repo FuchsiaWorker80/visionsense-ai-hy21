@@ -1,4 +1,4 @@
-# 
+# Professionnel VisionSense package. Téléchargez et installez avec support des plugins et optimisé pour GPU — rapide, sécurisé et facile à utiliser.
 
 
 
